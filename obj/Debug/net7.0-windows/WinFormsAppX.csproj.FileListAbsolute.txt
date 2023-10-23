@@ -1,0 +1,17 @@
+C:\Users\Matthes\source\repos\WinFormsAppX\bin\Debug\net7.0-windows\WinFormsAppX.exe
+C:\Users\Matthes\source\repos\WinFormsAppX\bin\Debug\net7.0-windows\WinFormsAppX.deps.json
+C:\Users\Matthes\source\repos\WinFormsAppX\bin\Debug\net7.0-windows\WinFormsAppX.runtimeconfig.json
+C:\Users\Matthes\source\repos\WinFormsAppX\bin\Debug\net7.0-windows\WinFormsAppX.dll
+C:\Users\Matthes\source\repos\WinFormsAppX\bin\Debug\net7.0-windows\WinFormsAppX.pdb
+C:\Users\Matthes\source\repos\WinFormsAppX\obj\Debug\net7.0-windows\WinFormsAppX.csproj.AssemblyReference.cache
+C:\Users\Matthes\source\repos\WinFormsAppX\obj\Debug\net7.0-windows\WinFormsAppX.Form1.resources
+C:\Users\Matthes\source\repos\WinFormsAppX\obj\Debug\net7.0-windows\WinFormsAppX.csproj.GenerateResource.cache
+C:\Users\Matthes\source\repos\WinFormsAppX\obj\Debug\net7.0-windows\WinFormsAppX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthes\source\repos\WinFormsAppX\obj\Debug\net7.0-windows\WinFormsAppX.AssemblyInfoInputs.cache
+C:\Users\Matthes\source\repos\WinFormsAppX\obj\Debug\net7.0-windows\WinFormsAppX.AssemblyInfo.cs
+C:\Users\Matthes\source\repos\WinFormsAppX\obj\Debug\net7.0-windows\WinFormsAppX.csproj.CoreCompileInputs.cache
+C:\Users\Matthes\source\repos\WinFormsAppX\obj\Debug\net7.0-windows\WinFormsAppX.dll
+C:\Users\Matthes\source\repos\WinFormsAppX\obj\Debug\net7.0-windows\refint\WinFormsAppX.dll
+C:\Users\Matthes\source\repos\WinFormsAppX\obj\Debug\net7.0-windows\WinFormsAppX.pdb
+C:\Users\Matthes\source\repos\WinFormsAppX\obj\Debug\net7.0-windows\WinFormsAppX.genruntimeconfig.cache
+C:\Users\Matthes\source\repos\WinFormsAppX\obj\Debug\net7.0-windows\ref\WinFormsAppX.dll
